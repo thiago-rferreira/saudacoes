@@ -1,0 +1,14 @@
+body {
+    background-color: plum;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 30px;
+}
+
+h1 {
+    color: #1565c0;
+}
+
+h2 {
+    color: #1976d2
+}
